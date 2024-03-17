@@ -19,10 +19,12 @@ streamlit run role_play.py
 ```
 
 ## 运行环境
+```
 python==3.11
 
 zhipuai==2.0.1
 streamlit==1.32.2
 python-dotenv==1.0.1
 jwt==1.3.1
+```
 
