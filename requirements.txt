@@ -1,0 +1,4 @@
+zhipuai
+streamlit
+python-dotenv
+jwt==1.3.1
