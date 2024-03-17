@@ -3,8 +3,12 @@
 改进characterglm_api_demo_streamlit.py的代码，为文生图功能加上风格选项，在页面上加上一个可指定图片风格的选项框。
 ```
 ```
+运行命令：
 streamlit run characterglm_api_demo_streamlit.py
 ```
+运行效果
+![img](img/1-1.png)
+![img](img/1-2.png)
 
 ## 作业二
 ```
@@ -15,8 +19,11 @@ streamlit run characterglm_api_demo_streamlit.py
 （可选）设计图形界面，通过点击图形界面上的按钮执行对话数据生成，并展示对话数据。
 ```
 ```
+运行命令：
 streamlit run role_play.py
 ```
+运行效果
+![img](img/2.png)
 
 ## 运行环境
 ```
@@ -27,4 +34,3 @@ streamlit==1.32.2
 python-dotenv==1.0.1
 jwt==1.3.1
 ```
-
